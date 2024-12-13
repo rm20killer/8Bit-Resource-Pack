@@ -1,0 +1,11 @@
+{
+    "lilliputianchop": {
+        "subtitle": "Kishi Bashi - lilliputian chop",
+        "sounds": [
+            {
+                "name": "nightclub:lilliputianchop",
+                "stream": true
+            }
+        ]
+    }
+}
