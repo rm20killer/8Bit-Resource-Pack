@@ -1,0 +1,23 @@
+{
+	"credit": "RM20",
+	"texture_size": [256, 256],
+	"textures": {
+		"0": "custom:item/thats-gonna-cause-lag",
+		"particle": "custom:item/thats-gonna-cause-lag"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 15],
+			"to": [32, 32, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [1, 0, 14]},
+			"faces": {
+				"north": {"uv": [0, 0, 15.875, 16], "texture": "#0"},
+				"east": {"uv": [0, 0, 0.0625, 2], "texture": "#missing"},
+				"south": {"uv": [0, 0, 2, 2], "texture": "#missing"},
+				"west": {"uv": [0, 0, 0.0625, 2], "texture": "#missing"},
+				"up": {"uv": [0, 0, 2, 0.0625], "texture": "#missing"},
+				"down": {"uv": [0, 0, 2, 0.0625], "texture": "#missing"}
+			}
+		}
+	]
+}
