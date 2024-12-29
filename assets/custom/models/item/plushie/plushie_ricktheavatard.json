@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "custom:item/plushie/colorapathy",
-		"particle": "custom:item/plushie/colorapathy"
+		"0": "custom:item/plushie/ricktheavatard",
+		"particle": "custom:item/plushie/ricktheavatard"
 	},
 	"elements": [
 		{
