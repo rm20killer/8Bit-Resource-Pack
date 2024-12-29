@@ -5,6 +5,8 @@
     },
     "overrides": [
       { "predicate": {"custom_model_data": 101}, "model": "custom:item/images/thatgoingtocause"},
+      { "predicate": {"custom_model_data": 102}, "model": "custom:item/title/new_year_firework_text"},
+      { "predicate": {"custom_model_data": 103}, "model": "custom:item/title/firework_rocket"},
       { "predicate": {"custom_model_data": 201}, "model": "custom:item/images/server_pride_2024"},
       { "predicate": {"custom_model_data": 202}, "model": "custom:item/images/server_pride_firework_2024"},
       { "predicate": {"custom_model_data": 301}, "model": "custom:item/images/wild_west_2024_ignonito"},
