@@ -1,0 +1,11 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+      "layer0": "minecraft:item/iron_ingot"
+    },
+    "overrides": [
+      { "predicate": {"custom_model_data": 101}, "model": "custom:item/images/thatgoingtocause"},
+      { "predicate": {"custom_model_data": 201}, "model": "custom:item/images/server_pride_2024"}
+
+    ]
+  }
