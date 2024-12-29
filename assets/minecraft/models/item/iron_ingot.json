@@ -5,7 +5,14 @@
     },
     "overrides": [
       { "predicate": {"custom_model_data": 101}, "model": "custom:item/images/thatgoingtocause"},
-      { "predicate": {"custom_model_data": 201}, "model": "custom:item/images/server_pride_2024"}
+      { "predicate": {"custom_model_data": 201}, "model": "custom:item/images/server_pride_2024"},
+      { "predicate": {"custom_model_data": 202}, "model": "custom:item/images/server_pride_firework_2024"},
+      { "predicate": {"custom_model_data": 301}, "model": "custom:item/images/wild_west_2024_ignonito"},
+      { "predicate": {"custom_model_data": 302}, "model": "custom:item/images/wild_west_2024_colorapathy"},
+      { "predicate": {"custom_model_data": 303}, "model": "custom:item/images/wild_west_2024_lina"},
+      { "predicate": {"custom_model_data": 311}, "model": "custom:item/images/better_hole_ntlhumon"},
+      { "predicate": {"custom_model_data": 312}, "model": "custom:item/images/better_hole_rillegas08"},
+      { "predicate": {"custom_model_data": 313}, "model": "custom:item/images/better_hole_epicmuttonchops"}
 
     ]
   }

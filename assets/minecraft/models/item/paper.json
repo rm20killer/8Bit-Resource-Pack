@@ -36,7 +36,6 @@
     { "predicate": {"custom_model_data": 230}, "model": "custom:item/pride/demiboyflag"},
     { "predicate": {"custom_model_data": 231}, "model": "custom:item/pride/pangenderflag"},
     { "predicate": {"custom_model_data": 232}, "model": "custom:item/pride/omnisexualflag"},
-    { "predicate": {"custom_model_data": 233}, "model": "custom:item/pride/aroaceflag"},
-    { "predicate": {"custom_model_data": 999}, "model": "custom:item/images/thatgoingtocause"}
+    { "predicate": {"custom_model_data": 233}, "model": "custom:item/pride/aroaceflag"}
   ]
 }
