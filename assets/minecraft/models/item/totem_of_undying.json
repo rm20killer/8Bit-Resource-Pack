@@ -1,0 +1,15 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+      "layer0": "minecraft:item/totem_of_undying"
+    },
+    "overrides": [
+        { "predicate": {"custom_model_data": 101}, "model": "custom:item/plushie/plushie_rm20"},
+        { "predicate": {"custom_model_data": 201}, "model": "custom:item/plushie/plushie_colorapathy"},
+        { "predicate": {"custom_model_data": 202}, "model": "custom:item/plushie/plushie_epicmuttonchops"},
+        { "predicate": {"custom_model_data": 203}, "model": "custom:item/plushie/plushie_ignonito"},
+        { "predicate": {"custom_model_data": 204}, "model": "custom:item/plushie/plushie_linatheone"},
+        { "predicate": {"custom_model_data": 205}, "model": "custom:item/plushie/plushie_notthelasthumon"},
+        { "predicate": {"custom_model_data": 206}, "model": "custom:item/plushie/plushie_ricktheavatard"}
+    ]
+  }
