@@ -16,6 +16,6 @@
         {"predicate": {"custom_model_data": 209}, "model": "custom:item/plushie/plushie_toniamh"},
         {"predicate": {"custom_model_data": 210}, "model": "custom:item/plushie/plushie_s2dbaker"},
         {"predicate": {"custom_model_data": 211}, "model": "custom:item/plushie/plushie_marsbar"},
-        {"predicate": {"custom_model_data": 211}, "model": "custom:item/plushie/plushie_trekkie"}
+        {"predicate": {"custom_model_data": 212}, "model": "custom:item/plushie/plushie_trekkie"}
     ]
   }
