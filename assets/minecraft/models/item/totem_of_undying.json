@@ -5,6 +5,7 @@
     },
     "overrides": [
         { "predicate": {"custom_model_data": 101}, "model": "custom:item/plushie/plushie_rm20"},
+        { "predicate": {"custom_model_data": 102}, "model": "custom:item/plushie/plushie_starlion"},
         { "predicate": {"custom_model_data": 201}, "model": "custom:item/plushie/plushie_colorapathy"},
         { "predicate": {"custom_model_data": 202}, "model": "custom:item/plushie/plushie_epicmuttonchops"},
         { "predicate": {"custom_model_data": 203}, "model": "custom:item/plushie/plushie_ignonito"},
