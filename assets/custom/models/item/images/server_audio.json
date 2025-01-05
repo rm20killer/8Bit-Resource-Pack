@@ -2,9 +2,9 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [256, 256],
 	"textures": {
-		"0": "custom:item/images/server_pride_2024",
+		"0": "custom:item/images/audio",
 		"1": "custom:item/images/frame",
-		"particle": "custom:item/images/server_pride_2024"
+		"particle": "custom:item/images/audio"
 	},
 	"elements": [
 		{
