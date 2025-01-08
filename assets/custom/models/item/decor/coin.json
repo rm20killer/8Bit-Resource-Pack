@@ -541,9 +541,9 @@
 			"scale": [0.5, 0.5, 0.5]
 		},
 		"gui": {
-			"rotation": [0, -35, 0],
-			"translation": [-0.5, 1.75, 0],
-			"scale": [1.2, 1.2, 1.2]
+			"rotation": [0, -10, 0],
+			"translation": [-0.75, 2.25, 0],
+			"scale": [1.4, 1.4, 1.4]
 		},
 		"head": {
 			"translation": [0, 14, 0],
