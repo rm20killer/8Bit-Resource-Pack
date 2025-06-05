@@ -14,6 +14,13 @@
                     "model": "customfishing:item/fish/rainbow_fish",
                     "type": "model"
                 }
+            },
+            {
+                "threshold": 50101,
+                "model": {
+                    "model": "item/cod",
+                    "type": "model"
+                }
             }
         ]
     }

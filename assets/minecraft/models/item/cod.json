@@ -25,12 +25,6 @@
     "overrides": [
         {
             "predicate": {
-                "custom_model_data": 50100
-            },
-            "model": "customfishing:item/fish/rainbow_fish"
-        },
-        {
-            "predicate": {
                 "custom_model_data": 50101
             },
             "model": "item/cod"
