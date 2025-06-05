@@ -4,39 +4,251 @@
     "layer0": "minecraft:item/paper"
   },
   "overrides": [
-    { "predicate": {"custom_model_data": 201}, "model": "custom:item/pride/progress"},
-    { "predicate": {"custom_model_data": 202}, "model": "custom:item/pride/rainbow"},
-    { "predicate": {"custom_model_data": 203}, "model": "custom:item/pride/abroflag"},
-    { "predicate": {"custom_model_data": 204}, "model": "custom:item/pride/aceflag"},
-    { "predicate": {"custom_model_data": 205}, "model": "custom:item/pride/agenderflag"},
-    { "predicate": {"custom_model_data": 206}, "model": "custom:item/pride/aroflag"},
-    { "predicate": {"custom_model_data": 207}, "model": "custom:item/pride/biflag"},
-    { "predicate": {"custom_model_data": 208}, "model": "custom:item/pride/demisexualflag"},
-    { "predicate": {"custom_model_data": 209}, "model": "custom:item/pride/gayflag"},
-    { "predicate": {"custom_model_data": 210}, "model": "custom:item/pride/genderfluidflag"},
-    { "predicate": {"custom_model_data": 211}, "model": "custom:item/pride/intersexflag"},
-    { "predicate": {"custom_model_data": 212}, "model": "custom:item/pride/lesbianflag"},
-    { "predicate": {"custom_model_data": 213}, "model": "custom:item/pride/nonbinaryflag"},
-    { "predicate": {"custom_model_data": 214}, "model": "custom:item/pride/panflag"},
-    { "predicate": {"custom_model_data": 215}, "model": "custom:item/pride/polysexualflag"},
-    { "predicate": {"custom_model_data": 216}, "model": "custom:item/pride/prideflag"},
-    { "predicate": {"custom_model_data": 217}, "model": "custom:item/pride/progressprideflag"},
-    { "predicate": {"custom_model_data": 218}, "model": "custom:item/pride/simplifiedgayflag"},
-    { "predicate": {"custom_model_data": 219}, "model": "custom:item/pride/simplifiedlesbianflag"},
-    { "predicate": {"custom_model_data": 220}, "model": "custom:item/pride/transflag"},
-    { "predicate": {"custom_model_data": 221}, "model": "custom:item/pride/polyamoryflag"},
-    { "predicate": {"custom_model_data": 222}, "model": "custom:item/pride/bearflag"},
-    { "predicate": {"custom_model_data": 223}, "model": "custom:item/pride/queerflag"},
-    { "predicate": {"custom_model_data": 224}, "model": "custom:item/pride/demiromanticflag"},
-    { "predicate": {"custom_model_data": 225}, "model": "custom:item/pride/labrysflag"},
-    { "predicate": {"custom_model_data": 226}, "model": "custom:item/pride/minecraftheartflag"},
-    { "predicate": {"custom_model_data": 227}, "model": "custom:item/pride/genderqueerflag"},
-    { "predicate": {"custom_model_data": 228}, "model": "custom:item/pride/bigenderflag"},
-    { "predicate": {"custom_model_data": 229}, "model": "custom:item/pride/demigirlflag"},
-    { "predicate": {"custom_model_data": 230}, "model": "custom:item/pride/demiboyflag"},
-    { "predicate": {"custom_model_data": 231}, "model": "custom:item/pride/pangenderflag"},
-    { "predicate": {"custom_model_data": 232}, "model": "custom:item/pride/omnisexualflag"},
-    { "predicate": {"custom_model_data": 233}, "model": "custom:item/pride/aroaceflag"},
-    { "predicate": {"custom_model_data": 234}, "model": "custom:item/pride/axiosexual"}
+    {
+      "predicate": {
+        "custom_model_data": 201
+      },
+      "model": "custom:item/pride/progress"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 202
+      },
+      "model": "custom:item/pride/rainbow"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 203
+      },
+      "model": "custom:item/pride/abroflag"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 204
+      },
+      "model": "custom:item/pride/aceflag"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 205
+      },
+      "model": "custom:item/pride/agenderflag"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 206
+      },
+      "model": "custom:item/pride/aroflag"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 207
+      },
+      "model": "custom:item/pride/biflag"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 208
+      },
+      "model": "custom:item/pride/demisexualflag"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 209
+      },
+      "model": "custom:item/pride/gayflag"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 210
+      },
+      "model": "custom:item/pride/genderfluidflag"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 211
+      },
+      "model": "custom:item/pride/intersexflag"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 212
+      },
+      "model": "custom:item/pride/lesbianflag"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 213
+      },
+      "model": "custom:item/pride/nonbinaryflag"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 214
+      },
+      "model": "custom:item/pride/panflag"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 215
+      },
+      "model": "custom:item/pride/polysexualflag"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 216
+      },
+      "model": "custom:item/pride/prideflag"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 217
+      },
+      "model": "custom:item/pride/progressprideflag"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 218
+      },
+      "model": "custom:item/pride/simplifiedgayflag"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 219
+      },
+      "model": "custom:item/pride/simplifiedlesbianflag"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 220
+      },
+      "model": "custom:item/pride/transflag"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 221
+      },
+      "model": "custom:item/pride/polyamoryflag"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 222
+      },
+      "model": "custom:item/pride/bearflag"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 223
+      },
+      "model": "custom:item/pride/queerflag"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 224
+      },
+      "model": "custom:item/pride/demiromanticflag"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 225
+      },
+      "model": "custom:item/pride/labrysflag"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 226
+      },
+      "model": "custom:item/pride/minecraftheartflag"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 227
+      },
+      "model": "custom:item/pride/genderqueerflag"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 228
+      },
+      "model": "custom:item/pride/bigenderflag"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 229
+      },
+      "model": "custom:item/pride/demigirlflag"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 230
+      },
+      "model": "custom:item/pride/demiboyflag"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 231
+      },
+      "model": "custom:item/pride/pangenderflag"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 232
+      },
+      "model": "custom:item/pride/omnisexualflag"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 233
+      },
+      "model": "custom:item/pride/aroaceflag"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 234
+      },
+      "model": "custom:item/pride/axiosexual"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 49998
+      },
+      "model": "customfishing:item/util/splash_water"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 49999
+      },
+      "model": "customfishing:item/util/splash_lava"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 50000
+      },
+      "model": "customfishing:item/util/fishfinder"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 50001
+      },
+      "model": "customfishing:item/bait/simple_bait"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 50002
+      },
+      "model": "customfishing:item/bait/magnetic_bait"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 50003
+      },
+      "model": "customfishing:item/bait/wild_bait"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 50004
+      },
+      "model": "item/paper"
+    }
   ]
 }

@@ -1,0 +1,20 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "index": 0,
+        "fallback": {
+            "model": "item/cod",
+            "type": "model"
+        },
+        "entries": [
+            {
+                "threshold": 50100,
+                "model": {
+                    "model": "customfishing:item/fish/rainbow_fish",
+                    "type": "model"
+                }
+            }
+        ]
+    }
+}

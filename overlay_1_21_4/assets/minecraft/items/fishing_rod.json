@@ -1,0 +1,133 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "index": 0,
+        "fallback": {
+            "on_true": {
+                "model": "item/fishing_rod_cast",
+                "type": "model"
+            },
+            "type": "condition",
+            "property": "fishing_rod/cast",
+            "on_false": {
+                "model": "item/fishing_rod",
+                "type": "model"
+            }
+        },
+        "entries": [
+            {
+                "threshold": 50001,
+                "model": {
+                    "type": "minecraft:condition",
+                    "model": "customfishing:item/rod/beginner_rod",
+                    "property": "minecraft:fishing_rod/cast",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "customfishing:item/rod/beginner_rod_cast"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "customfishing:item/rod/beginner_rod"
+                    }
+                }
+            },
+            {
+                "threshold": 50002,
+                "model": {
+                    "type": "minecraft:condition",
+                    "model": "customfishing:item/rod/silver_rod",
+                    "property": "minecraft:fishing_rod/cast",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "customfishing:item/rod/silver_rod_cast"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "customfishing:item/rod/silver_rod"
+                    }
+                }
+            },
+            {
+                "threshold": 50003,
+                "model": {
+                    "type": "minecraft:condition",
+                    "model": "customfishing:item/rod/golden_rod",
+                    "property": "minecraft:fishing_rod/cast",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "customfishing:item/rod/golden_rod_cast"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "customfishing:item/rod/golden_rod"
+                    }
+                }
+            },
+            {
+                "threshold": 50004,
+                "model": {
+                    "type": "minecraft:condition",
+                    "model": "customfishing:item/rod/star_rod",
+                    "property": "minecraft:fishing_rod/cast",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "customfishing:item/rod/star_rod_cast"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "customfishing:item/rod/star_rod"
+                    }
+                }
+            },
+            {
+                "threshold": 50005,
+                "model": {
+                    "type": "minecraft:condition",
+                    "model": "customfishing:item/rod/bone_rod",
+                    "property": "minecraft:fishing_rod/cast",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "customfishing:item/rod/bone_rod_cast"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "customfishing:item/rod/bone_rod"
+                    }
+                }
+            },
+            {
+                "threshold": 50006,
+                "model": {
+                    "type": "minecraft:condition",
+                    "model": "customfishing:item/rod/magical_rod",
+                    "property": "minecraft:fishing_rod/cast",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "customfishing:item/rod/magical_rod_cast"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "customfishing:item/rod/magical_rod"
+                    }
+                }
+            },
+            {
+                "threshold": 50007,
+                "model": {
+                    "type": "minecraft:condition",
+                    "model": "customfishing:item/rod/master_rod",
+                    "property": "minecraft:fishing_rod/cast",
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "customfishing:item/rod/master_rod_cast"
+                    },
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "customfishing:item/rod/master_rod"
+                    }
+                }
+            }
+        ]
+    }
+}
