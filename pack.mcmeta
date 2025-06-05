@@ -2,5 +2,19 @@
   "pack": {
     "pack_format": 34,
     "description": "§98BIT Community §f•\n§3ꜱᴇʀᴠᴇʀ ʀᴇꜱᴏᴜʀᴄᴇ ᴘᴀᴄᴋ ⛏"
+    "supported_formats": {
+      "min_inclusive": 8,
+      "max_inclusive": 99
+    }
+  },
+    "overlays": {
+      "entries": [{
+        "formats": {
+            "min_inclusive": 46,
+            "max_inclusive": 99
+          },
+        "directory": "overlay_1_21_4"
+      }
+    ]
   }
 }
